@@ -1,0 +1,13 @@
+body {
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url('https://media0.giphy.com/media/b29IZK1dP4aWs/giphy.gif?cid=ecf05e4784pdno7xllzsr0f309e9je2jzjzk9wwoxcssgovp&ep=v1_gifs_search&rid=giphy.gif&ct=g');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
